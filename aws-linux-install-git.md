@@ -9,3 +9,8 @@ dnf
 ```sh
 sudo dnf install git-all
 ```
+
+## 3 Verify Installation
+```sh
+git version
+```
