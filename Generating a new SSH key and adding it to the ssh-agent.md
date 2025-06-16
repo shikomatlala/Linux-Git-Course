@@ -2,6 +2,10 @@
 
 
 ## 1 Open Terminal.
-`
 
-`
+## 2 Paste the text below, replacing the email used in the example with your GitHub email address.
+```sh
+ssh-keygen -t ed25519 -C "shikomatlala@gmail.com"
+```
+
+
