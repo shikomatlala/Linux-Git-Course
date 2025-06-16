@@ -15,5 +15,6 @@ ssh-keygen -t ed25519 -C "shikomatlala@gmail.com"
 
 
 ## 3 At the prompt, type a secure passphrase.
-> >Enter passphrase (empty for no passphrase): [Type a passphrase]
-> >Enter same passphrase again: [Type passphrase again]
+> Enter passphrase (empty for no passphrase): [Type a passphrase]
+> 
+> Enter same passphrase again: [Type passphrase again]
