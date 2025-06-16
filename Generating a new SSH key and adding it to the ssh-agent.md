@@ -1,7 +1,7 @@
-## Generating a new SSH key and adding it to the ssh-agent
+# Generating a new SSH key and adding it to the ssh-agent
 
 
-# 1 Open Terminal.
+## 1 Open Terminal.
 ```
 
 ```
