@@ -8,15 +8,4 @@
 ssh-keygen -t ed25519 -C "shikomatlala@gmail.com"
 ```
 > This creates a new SSH key, using the provided email as a label.
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-H~2~O
-
-
-	`code`
+> Generating public/private ALGORITHM key pair.
