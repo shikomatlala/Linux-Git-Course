@@ -16,3 +16,4 @@ ssh-keygen -t ed25519 -C "shikomatlala@gmail.com"
   "age": 25
 }
 ```
+H~2~O
