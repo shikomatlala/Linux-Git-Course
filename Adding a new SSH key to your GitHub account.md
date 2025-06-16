@@ -10,3 +10,5 @@ cat ~/.ssh/id_ed25519.pub
 ```
 
 >  Then select and copy the contents of the id_ed25519.pub file displayed in the terminal to your clipboard
+
+## 2 In the upper-right corner of any page on GitHub, click your profile photo, then click  **Settings.**
