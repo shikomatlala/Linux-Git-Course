@@ -5,3 +5,7 @@
 ```sh
 dnf
 ```
+## 2 Install Git
+```sh
+sudo dnf install git-all
+```
