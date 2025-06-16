@@ -19,7 +19,7 @@ cat ~/.ssh/id_ed25519.pub
 
 ## 5 In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal laptop, you might call this key "Personal laptop".
 
-$$ Select the type of key, either authentication or signing. For more information about commit signing, see About commit signature verification.
+## 6 Select the type of key, either authentication or signing. For more information about commit signing, see About commit signature verification.
 
 ## 7 In the "Key" field, paste your public key.
 
